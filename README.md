@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Satyam Pandey
-- 👀 I’m interested in playing chess
-- 🌱 I’m currently learning DSA and web dev 
 - 📫 How to reach me satyampandey2719@gmail.com
 
 <!---
